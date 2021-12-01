@@ -1,6 +1,6 @@
 ////////////////// prefix wara
 const Discord = require("discord.js");
-const jano = new Discord.Client();
+const jano = new Discord.Client(OTE1MzM3NTg5ODg2Njg1MjM0.YaaIjw.AkX0N_D1TSpGY7COVH-Rbylbn0Q);
 const jano2 = new Discord.Client();
 const jano3 = new Discord.Client();
 const jano4 = new Discord.Client();
